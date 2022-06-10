@@ -13,5 +13,7 @@ def get_work_history():
 
 class work_history: {
 
-    
+    # In no way will this probably be the right way, 
+    # but I will try to make this work out lmao
+
 }
