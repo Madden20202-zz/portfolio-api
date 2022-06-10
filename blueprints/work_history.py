@@ -11,9 +11,3 @@ work_history_bp = Blueprint('work_history', __name__)
 def get_work_history(): 
     return 'I need to be able to give multiple values'
 
-class work_history: {
-
-    # In no way will this probably be the right way, 
-    # but I will try to make this work out lmao
-
-}
